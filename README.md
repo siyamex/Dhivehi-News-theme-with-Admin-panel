@@ -7,7 +7,7 @@ Dhivehi News theme with Admin panel
 - add database file to SQl
 - change application/config/database.php
 
-#credit
+# credit
 Varient
 CodeIgniter
 EllisLab Dev Team
